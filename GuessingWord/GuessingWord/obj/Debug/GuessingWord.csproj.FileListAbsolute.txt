@@ -9,3 +9,13 @@ C:\Users\Gab\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.cspro
 C:\Users\Gab\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.CoreCompileInputs.cache
 C:\Users\Gab\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.exe
 C:\Users\Gab\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.pdb
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\bin\Debug\GuessingWord.exe.config
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\bin\Debug\GuessingWord.exe
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\bin\Debug\GuessingWord.pdb
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.AssemblyReference.cache
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\obj\Debug\GuessingWord.Form1.resources
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\obj\Debug\GuessingWord.Properties.Resources.resources
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.GenerateResource.cache
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\obj\Debug\GuessingWord.exe
+C:\Users\user\Documents\TP FOR INTEG\GuessingWord\GuessingWord\GuessingWord\obj\Debug\GuessingWord.pdb
