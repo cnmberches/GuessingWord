@@ -13,7 +13,7 @@ namespace GuessingWord
 {
     public partial class Form1 : Form
     {
-        private int ticks = 60;
+        private int ticks = 65;
         private int score;
         private StringBuilder inputWord = new StringBuilder();
         private ArrayList word = new ArrayList();
@@ -89,9 +89,12 @@ namespace GuessingWord
                 labelLetters.Text += letters + " ";
             }
             textBox.Enabled = false;
+
             labelLetters.Left = (panel.Width - labelLetters.Width) / 2;
             MessageBox.Show("You have 60 seconds to guess a word, guess a word as many as you can! Good luck!"); 
             timer1.Enabled = true;
+
+            MessageBox.Show("You have 60 seconds to guess a word, guess a word as many as you can! goodluck"); 
         }
 
         private void timer1_Tick(object sender, EventArgs e)
