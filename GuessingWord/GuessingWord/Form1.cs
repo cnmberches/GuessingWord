@@ -32,7 +32,6 @@ namespace GuessingWord
              * 
              */
             InitializeComponent();
-            timer1.Start();
 
             word.Add("danger");
             word.Add("range");
@@ -90,9 +89,10 @@ namespace GuessingWord
                 labelLetters.Text += letters + " ";
             }
             textBox.Enabled = false;
-            MessageBox.Show("You have 180 seconds to guess a word, guess a word as many as you can! goods luck"); 
+            labelLetters.Left = (panel.Width - labelLetters.Width) / 2;
+            MessageBox.Show("You have 60 seconds to guess a word, guess a word as many as you can! Good luck!"); 
+            timer1.Enabled = true;
         }
-        private int countColor = 0;
 
         private void timer1_Tick(object sender, EventArgs e)
         {
