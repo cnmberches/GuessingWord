@@ -90,7 +90,7 @@ namespace GuessingWord
                 labelLetters.Text += letters + " ";
             }
             textBox.Enabled = false;
-            MessageBox.Show("You have 60 seconds to guess a word, guess a word as many as you can! goods luck"); 
+            MessageBox.Show("You have 60 seconds to guess a word, guess a word as many as you can! goodluck"); 
         }
         private int countColor = 0;
 
