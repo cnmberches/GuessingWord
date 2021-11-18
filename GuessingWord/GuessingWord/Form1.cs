@@ -93,8 +93,6 @@ namespace GuessingWord
             labelLetters.Left = (panel.Width - labelLetters.Width) / 2;
             MessageBox.Show("You have 60 seconds to guess a word, guess a word as many as you can! Good luck!"); 
             timer1.Enabled = true;
-
-            MessageBox.Show("You have 60 seconds to guess a word, guess a word as many as you can! goodluck"); 
         }
 
         private void timer1_Tick(object sender, EventArgs e)
