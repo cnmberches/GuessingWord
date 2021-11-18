@@ -13,7 +13,7 @@ namespace GuessingWord
 {
     public partial class Form1 : Form
     {
-        private int ticks = 60;
+        private int ticks = 65;
         private int score;
         private StringBuilder inputWord = new StringBuilder();
         private ArrayList word = new ArrayList();
